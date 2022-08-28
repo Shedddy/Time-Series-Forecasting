@@ -13,10 +13,10 @@ To Implement Machine Learning in Building a time series forecasting model of Cru
 For this project, data from [The U.S Energy Information Administration]("www.eia.gov") was used, The Website "www.eia.gov" contains the price of Natural gas from 1994 till date(imputed daily)
 
 ## Table of Contents
-- [Implementation of AutoReg for the Forecasting of Natural Gas Prices]()
-- [Implementation of ARIMA for the Forecasting of Natural Gas Prices]()
-- [Implementation of AutoReg for the Forecasting of Crude Oil Prices]()
-- [Implementation of ARIMA for the Forecasting of Crude Oil Prices]()
+- [Implementation of AutoReg for the Forecasting of Natural Gas Prices](https://github.com/Shedddy/Time-Series-Forecasting/blob/main/Natural_Gas_Price_Prediction.ipynb)
+- [Implementation of ARIMA for the Forecasting of Natural Gas Prices](https://github.com/Shedddy/Time-Series-Forecasting/blob/main/Natural_Gas_Price_Prediction.ipynb)
+- [Implementation of AutoReg for the Forecasting of Crude Oil Prices](https://github.com/Shedddy/Time-Series-Forecasting/blob/main/Oil_Price_Prediction.ipynb)
+- [Implementation of ARIMA for the Forecasting of Crude Oil Prices](https://github.com/Shedddy/Time-Series-Forecasting/blob/main/Oil_Price_Prediction.ipynb)
 
 
 ## Technologies
